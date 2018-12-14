@@ -100,7 +100,7 @@ class Takeaway
     summary.each do |dish, counts|
       puts "#{dish.capitalize}: x #{counts}"
     end
-    puts "Total cost: £#{@total}"
+    puts "Total cost: GBP #{@total}"
     "Thank-you for your order."
   end
 
