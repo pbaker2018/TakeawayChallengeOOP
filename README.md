@@ -9,12 +9,6 @@ This should allow a customer to:
 
 In addition, an SMS should be sent to the customer, using the Twilio API, after the order has been placed, to advise on delivery time.
 
-## Goals
-This is a weekend challenge given by Maker's Academy, at the end of week 2.
-The aim is to help us to:
-- TDD anything
-- Learn how to do anything
-
 ## How to use it
 Firstly, you will need to instantiate an instance of the Takeaway Class:
 
